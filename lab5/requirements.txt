@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+databases
+sqlalchemy
+passlib
+bcrypt==4.0.1
+aiosqlite
+python-jose[cryptography]
+alembic
